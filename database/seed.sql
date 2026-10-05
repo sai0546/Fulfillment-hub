@@ -1,0 +1,3 @@
+-- Sample seed values are installed idempotently by backend/app/main.py.
+-- Scenario: ORD-2082 requires 3 KB-205 units; Main has 1 and Secondary has 12.
+-- Receive a transfer of 2 to demonstrate the shortage-to-pickable workflow.
